@@ -1,2 +1,0 @@
-
-    def setupUi(self, MainWindow):
